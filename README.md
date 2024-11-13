@@ -13,6 +13,7 @@
 * 💼 Worked with NevadaRP - FiveM <br/>
 * 💼 Worked with LS Confidential - FiveM <br/>
 * 💼 Worked with BackNew - FiveM <br/>
+* 💼 Worked with FlashSide - FiveM <br/>
 * 📨 Mail for contact ONLY : [contact@pyjama.my](mailto:contact@pyjama.my) <br/>
 <br/>
 
@@ -25,3 +26,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
 </p>
+* Credits : @Romset95 <br/>
