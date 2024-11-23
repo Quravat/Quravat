@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://badgen.net/badge/Language%20Learn/8/orange" alt=""/>&nbsp;
 </p><br>
-  <a href="https://discordapp.com/users/1293284154414469180">My Discord</a>
+  <a href="https://discordapp.com/users/1147659855822323717">My Discord</a>
 </p>
 
 * <b>Web Developer -> </b>CSS | HTML | JS | SQL<br/>
