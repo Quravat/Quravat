@@ -24,7 +24,7 @@
   - NevadaRP - FiveM
   - LS Confidential - FiveM
   - BackNew - FiveM
-  - FlashSide - FiveM
+  - FlashNew - FiveM
 
 ---
 
