@@ -19,6 +19,7 @@
 
 - 💼 **Currently searching for a project**
 - 💼 **Worked with:**
+  - Horizon - FiveM
   - FlashMoodRP - FiveM
   - NevadaRP - FiveM
   - LS Confidential - FiveM
