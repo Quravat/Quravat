@@ -45,7 +45,3 @@
 </p>
 
 ---
-
-### Credits
-
-- Special thanks to [@Romset95](https://github.com/Romset95)
