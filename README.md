@@ -19,6 +19,8 @@
 
 - 💼 **Currently searching for a project**
 - 💼 **Worked with:**
+  - Moodlife - FiveM
+  - LaJungleRP - FiveM
   - Horizon - FiveM
   - FlashMoodRP - FiveM
   - NevadaRP - FiveM
