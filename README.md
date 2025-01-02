@@ -19,7 +19,7 @@
 
 - 💼 **Currently searching for a project**
 - 💼 **Worked with:**
-  - OpPVP - FiveM
+  - OPpvp - FiveM
   - Moodlife - FiveM
   - LaJungleRP - FiveM
   - Horizon - FiveM
