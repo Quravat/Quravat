@@ -19,6 +19,7 @@
 
 - 💼 **Currently searching for a project**
 - 💼 **Worked with:**
+  - OpPVP - FiveM
   - Moodlife - FiveM
   - LaJungleRP - FiveM
   - Horizon - FiveM
@@ -27,6 +28,7 @@
   - LS Confidential - FiveM
   - BackNew - FiveM
   - FlashNew - FiveM
+  - Arcane Freeroam - FiveM
 
 ---
 
