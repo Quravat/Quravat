@@ -28,7 +28,7 @@
   - LS Confidential - FiveM
   - BackNew - FiveM
   - FlashNew - FiveM
-  - Arcane Freeroam - FiveM
+  - Arkane Freeroam - FiveM
 
 ---
 
