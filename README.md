@@ -29,6 +29,7 @@
   - BackNew - FiveM
   - FlashNew - FiveM
   - Arkane Freeroam - FiveM
+  - Arkane FA - FiveM
 
 ---
 
