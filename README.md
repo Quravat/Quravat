@@ -20,16 +20,17 @@
 - 💼 **Currently searching for a project**
 - 💼 **Worked with:**
   - OPpvp - FiveM
-  - Moodlife - FiveM
-  - LaJungleRP - FiveM
+  - Moodlife
+  - LaJungleRP
   - Horizon - FiveM
   - FlashMoodRP - FiveM
   - NevadaRP - FiveM
   - LS Confidential - FiveM
+  - RaweLand - FiveM
   - BackNew - FiveM
   - FlashNew - FiveM
-  - Arkane Freeroam - FiveM
-  - Arkane FA - FiveM
+  - Arkane Freeroam
+  - Arkane FA
 
 ---
 
