@@ -36,7 +36,7 @@
 
 ### Contact
 
-- 📨 **Email for contact ONLY**: [contact@pyjama.my](mailto:quravat@raweland.fr)
+- 📨 **Email for contact ONLY**: [quravat@raweland.fr](mailto:quravat@raweland.fr)
 
 ---
 
