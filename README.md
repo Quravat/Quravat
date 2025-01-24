@@ -11,7 +11,6 @@ A cool developer...
 
 ### Skills and Expertise
 
-- **Web Developer** → CSS | HTML | JS | SQL | PY
 ---
 
 ### Experience
