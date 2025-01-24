@@ -12,7 +12,6 @@ A cool developer...
 ### Skills and Expertise
 
 - **Web Developer** → CSS | HTML | JS | SQL | PY
-- **Discord Developer** → Python (PY) | SQL | JavaScript (JS)
 ---
 
 ### Experience
