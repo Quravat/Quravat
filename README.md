@@ -54,4 +54,7 @@ A cool developer...
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50" />
 </p>
 
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/QuravatDev) [![Profile Views](https://visitcount.itsvg.in/api?id=Quravat&icon=0&color=8)](https://visitcount.itsvg.in)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Quravat&show_icons=true&locale=en" alt="quravat le goat" /></p>
