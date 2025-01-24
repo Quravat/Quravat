@@ -9,7 +9,7 @@ A cool developer...
 
 ---
 
-### Skills and Expertise
+### 
 ---
 
 ### Experience
