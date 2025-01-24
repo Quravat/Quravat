@@ -38,8 +38,6 @@ A cool developer...
 
 ---
 
-### Technologies
-
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/QuravatDev) [![Profile Views](https://visitcount.itsvg.in/api?id=Quravat&icon=0&color=8)](https://visitcount.itsvg.in)
 
