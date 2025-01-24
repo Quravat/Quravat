@@ -13,7 +13,6 @@ A cool developer...
 
 - **Web Developer** → CSS | HTML | JS | SQL | PY
 - **Discord Developer** → Python (PY) | SQL | JavaScript (JS)
-
 ---
 
 ### Experience
