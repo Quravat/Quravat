@@ -39,7 +39,6 @@ A cool developer...
 ---
 
 ### Technologies
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50" />
 </p>
 
 
