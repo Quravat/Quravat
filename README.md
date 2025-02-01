@@ -19,14 +19,12 @@ A cool developer...
 - 💼 **Worked with:**
   - OPpvp - FiveM
   - Moodlife
-  - LaJungleRP
-  - Horizon - FiveM
-  - FlashMoodRP - FiveM
-  - NevadaRP - FiveM
-  - LS Confidential - FiveM
-  - RaweLand - FiveM
-  - BackNew - FiveM
-  - FlashNew - FiveM
+  - FlashLand FA
+  - Prompt Studio
+  - NevadaRP
+  - LS Confidential
+  - Nteam
+  - RaweLand
   - Arkane Freeroam
   - Arkane FA
   - FlashLand WL
