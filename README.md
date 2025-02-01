@@ -25,8 +25,7 @@ A cool developer...
   - LS Confidential
   - Nteam
   - RaweLand
-  - Arkane Freeroam
-  - Arkane FA
+  - Arkane WL
   - FlashLand WL
 
 
