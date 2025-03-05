@@ -13,13 +13,11 @@ A cool software engineer...
 
 - 💼 **Currently searching for a project**
 - 💼 **Worked with:**
-  - OPpvp - FiveM
+  - OPpvp
   - Moodlife
   - FlashLand FA
   - Prompt Studio
   - NevadaRP
-  - LS Confidential
-  - Nteam
   - RaweLand
   - Arkane WL
   - FlashLand WL
