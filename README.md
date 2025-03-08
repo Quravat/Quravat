@@ -1,7 +1,5 @@
 A cool software engineer...
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atoshit&color=12114c" alt="quravat" /> </p>
-
 ## My Discord
 [Click here to connect with me on Discord](https://discordapp.com/users/1147659855822323717)
 
