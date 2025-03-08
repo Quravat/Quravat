@@ -19,7 +19,8 @@ A cool software engineer...
   - NevadaRP
   - RaweLand
   - Arkane WL
-  - FlashLand WL
+
+  NB : Worked not necessarily to say Dev
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/QuravatDev)
