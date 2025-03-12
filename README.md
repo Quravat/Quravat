@@ -15,9 +15,11 @@ A cool software engineer...
   - OPpvp
   - Moodlife
   - FlashLand FA
+  - SynaFA
   - Prompt Studio
   - NevadaRP
   - RaweLand
+  - WildBack
   - Arkane WL
 
   NB : Worked not necessarily to say Dev
