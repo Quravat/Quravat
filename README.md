@@ -10,7 +10,7 @@ A cool software engineer...
 
 ### Experience
 
-- 💼 **Currently searching for a project**
+- 💼 **Working with "ObelusCollective" **
 - 💼 **Worked with:**
   - OPpvp
   - Moodlife
