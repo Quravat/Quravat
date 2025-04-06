@@ -1,4 +1,4 @@
-A cool software engineer...
+A cool software engineer... 
 
 ## My Discord
 [Click here to connect with me on Discord](https://discordapp.com/users/1147659855822323717)
@@ -10,7 +10,7 @@ A cool software engineer...
 
 ### Experience
 
-- 💼 **Working with "ObelusCollective"**
+- 💼 **Working with "ObelusCollective"** :)
 - 💼 **Working with "VMaps"**
 - 💼 **Worked with:**
   - OPpvp
