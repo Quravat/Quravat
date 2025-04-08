@@ -11,7 +11,7 @@ A cool software engineer...
 ### Experience
 
 - 💼 **Working with "ObelusCollective"** :)
-- 💼 **Working with "VMaps"**
+- 💼 **Working with "Prompt Studios"**
 - 💼 **Worked with:**
   - OPpvp
   - Moodlife
@@ -21,6 +21,7 @@ A cool software engineer...
   - Prompt Studio
   - NevadaRP
   - RaweLand
+  - VMaps
   - WildBack
   - Arkane WL
 
