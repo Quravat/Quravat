@@ -8,22 +8,23 @@ A cool software engineer...
 
 ---
 
-### Experience
+## 💼 Collaborations
 
-- 💼 **Working with "ObelusCollective"** :)
-- 💼 **Working with "Prompt Studios"**
-- 💼 **Worked with:**
-  - OPpvp
-  - Moodlife
-  - FlashLand FA
-  - SynaFA
-  - VMap
-  - Prompt Studio
-  - NevadaRP
-  - RaweLand
-  - VMaps
-  - WildBack
-  - Arkane WL
+### 🔧 Currently Working With
+- **ObelusCollective** — Developer ✨  
+- **Prompt Studio** — The best 3D Dev on FiveM 🎨
+
+### 📁 Previously Worked With
+- OPpvp  
+- Moodlife  
+- FlashLand FA  
+- SynaFA  
+- VMap  
+- NevadaRP  
+- RaweLand  
+- VMaps  
+- WildBack  
+- Arkane WL  
 
   NB : Worked not necessarily to say Dev
 
