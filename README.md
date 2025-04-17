@@ -1,5 +1,5 @@
-A cool software engineer... 
+# 🚀 A passionate software engineer
 
-🌟
-master several languages 
-learning cpp
+🌟 Always building cool stuff  
+💻 Master of multiple languages  
+📚 Currently diving deeper into C++
