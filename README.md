@@ -1,9 +1,29 @@
 All my repositories marked "archived" are no longer intended to be maintained.
 
-# Present
+<h1 align="center">Quravat 👨‍💻</h1>
+<p align="center">
+  <b>Fullstack Dev · Contrib 3D Artist · FiveM Addict</b><br>
+  Créatif, réactif et orienté performance – je transforme des idées en systèmes solides.
+</p>
 
-“Même si l’argent monte, il reste dans la famille. Et s’il redescend, on tombe ensemble, pas seuls.”  
-— Quravat
+---
 
-Pas là pour montrer, là pour poser.  
-Aucun leak. Aucun bruit. Que du code réel.
+## 🚀 À propos de moi
+
+Salut, moi c’est **Rida**, alias **Quravat**.  
+Je suis un développeur **fullstack** orienté **back-end** & **3D**, actif sur la scène **FiveM** depuis plusieurs années.  
+J’ai bossé sur plusieurs serveurs notables, avec une obsession pour la qualité et l’optimisation.
+
+## 📂 Projets
+
+🛠️ Mon taff et mes démos live sont visibles ici :  
+🔗 [quravat.lol](https://quravat.lol)  
+📁 Mon code open-source & contributions : Ici sur github.
+
+---
+
+## 📫 Me contacter
+
+Disponible 7j/7 pour échanger, collaborer ou contribuer à des projets solides.  
+📧 me@quravat.lol  
+📨 Discord : `@Quravat`
