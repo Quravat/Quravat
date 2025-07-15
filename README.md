@@ -3,7 +3,7 @@ All my repositories marked "archived" are no longer intended to be maintained.
 <h1 align="center">Quravat 👨‍💻</h1>
 <p align="center">
   <b>Fullstack Dev · Contrib 3D Artist · FiveM Addict</b><br>
-  Créatif, réactif et orienté performance – je transforme des idées en systèmes solides.
+  Créatif, réactif et orienté performance – je transforme des idées en code solides.
 </p>
 
 ---
