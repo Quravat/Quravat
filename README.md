@@ -10,7 +10,7 @@ All my repositories marked "archived" are no longer intended to be maintained.
 
 ## 🚀 À propos de moi
 
-Salut, moi c’est **Rida**, alias **Quravat**.  
+Salut, moi c’est **Karim**, alias **Quravat**.  
 Je suis un développeur **fullstack** orienté **back-end** & **3D**, actif sur la scène **FiveM** depuis plusieurs années.  
 J’ai bossé sur plusieurs serveurs notables, avec une obsession pour la qualité et l’optimisation.
 
